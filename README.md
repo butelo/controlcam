@@ -22,9 +22,11 @@ touching them:
 - **DIY document/book scanners**: mount the camera phone on a stand over
   your scan surface and trigger from your other phone — the camera never
   moves, so framing is identical in every shot and there's no tap-shake
-  blurring your scans. The controller's giant button works great as a foot
-  pedal: phone on the floor, tap it with your foot and both hands stay free
-  for turning pages
+  blurring your scans. Since one button fires every camera at once, you can
+  run two camera phones — one over each side of the open book — and capture
+  the odd and even page in a single shot. The controller's giant button works
+  great as a foot pedal: phone on the floor, tap it with your foot and both
+  hands stay free for turning pages
 - Multi-angle shots of the same moment (skate tricks, experiments, birds…)
 - Photo-booth / tripod setups with the photographer in frame
 - Stop-motion or repeatable setups where the phone must not move between shots
