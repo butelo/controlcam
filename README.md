@@ -19,6 +19,10 @@ No accounts, no cloud, no internet — just two phones on the same WiFi.
 Useful whenever you want one or more cameras firing from a distance, without
 touching them:
 
+- **DIY document/book scanners**: mount the camera phone on a stand over
+  your scan surface and page through books or stacks of documents triggering
+  from your other phone — the camera never moves, so framing is identical in
+  every shot and there's no tap-shake blurring your scans
 - Multi-angle shots of the same moment (skate tricks, experiments, birds…)
 - Photo-booth / tripod setups with the photographer in frame
 - Stop-motion or repeatable setups where the phone must not move between shots
