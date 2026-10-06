@@ -1,0 +1,16 @@
+.gradle/
+build/
+**/build/
+.kotlin/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Signing / release artifacts — never commit these
+keystore/
+dist/
+*.jks
+*.keystore
+*.apk
+*.aab
